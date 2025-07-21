@@ -7,7 +7,6 @@
   <h2> Call Us : +91-9985396677  </h2> 
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-  <h4> Our Ofc Location : INDIA </h4>
-  <h4> Our Ofc Location : United state </h4>
+
 </body>
 </html>
